@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="PixelVT" width="100%">
+</p>
 # PixelVT
 
 **EN:** An unofficial Material You (Material Design 3) Android client for the VirusTotal API.
